@@ -1,3 +1,3 @@
-# APP-Discord-Bot
+# BTB-Discord-Bot
 
 Temp
